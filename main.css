@@ -47,7 +47,7 @@ img {
   font-size: 1.rem;
   letter-spacing:0em;
   float: left;
-  margin-left: 29rem;
+  margin-left: 33rem;
   margin-right: auto;
   margin-top: 4rem;
   color: #131313;
@@ -58,11 +58,18 @@ img {
   font-size: 1.4rem;
   letter-spacing:0em;
   float: left;
-  margin-left: 29rem;
-  margin-right: auto;
+  margin-left: 20rem;
+  margin-right:20rem;
   margin-top: 4rem;
   color: #131313;
   position:relative; 
+}
+
+.assignment1-image-alignment {
+  margin-top: 12rem;
+  margin-left: 6.5rem;
+  width:100%;
+  max-width: 400px;
 }
 
 .textAlignment2 {
